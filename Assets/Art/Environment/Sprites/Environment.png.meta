@@ -277,7 +277,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -1, y: -5}
+        - {x: -3, y: -1}
+        - {x: -5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 1, y: -2}
       tessellationDetail: 0
       bones: []
       spriteID: 23e52155255fbde4188185d0f65f860a
@@ -676,7 +681,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -1, y: -5}
+        - {x: -3, y: -2}
+        - {x: -5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 1, y: -2}
       tessellationDetail: 0
       bones: []
       spriteID: 15d885d511804704cbccf546fcfe331b
@@ -1054,7 +1064,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -5, y: -2}
+        - {x: -6, y: 2}
+        - {x: -7, y: 6}
+        - {x: 2, y: 6}
+        - {x: 7, y: 0}
+        - {x: 2, y: -6}
       tessellationDetail: 0
       bones: []
       spriteID: a03fa9f82445c7c4f93d18ad5dc47860
@@ -1530,7 +1546,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 1, y: -3}
+        - {x: -3, y: -5}
+        - {x: -3, y: -1}
+        - {x: -5, y: 3}
+        - {x: 4, y: 4}
+        - {x: 4, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: e0cd485737328f24fac5a98575e2fe25
@@ -1937,7 +1959,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: 1, y: -5}
+        - {x: -3, y: 1}
+        - {x: -6, y: 1}
+        - {x: -7, y: 6}
+        - {x: 2, y: 6}
+        - {x: 5, y: 3}
+        - {x: 5, y: -2}
       tessellationDetail: 0
       bones: []
       spriteID: d0111fd5c41d52e44ad979d9cd388f0e
@@ -5066,9 +5096,9 @@ TextureImporter:
       Environment_259: -561649107
       Environment_35: -1613645020
       Environment_39: 661214612
-      Environment_42: -131911096
       Environment_33: -21218784
       Environment_227: 1367502788
+      Environment_42: -131911096
       Environment_133: 188772184
       Environment_128: -1386230152
       Environment_104: -1990942661
@@ -5189,22 +5219,22 @@ TextureImporter:
       Environment_9: -906067894
       Environment_157: -1462536399
       Environment_144: 22720675
-      Environment_31: 140873309
+      Environment_187: -291699148
       Environment_158: 1020516384
       Environment_162: 1721706183
-      Environment_187: -291699148
       Environment_213: 1704708752
       Environment_256: 1826003459
-      Environment_219: -345435346
+      Environment_31: 140873309
       Environment_97: -308370181
       Environment_61: -894162282
       Environment_22: -1580731240
       Environment_93: -1321055853
       Environment_248: 1723670545
-      Environment_264: 1746095400
+      Environment_219: -345435346
       Environment_206: 132958920
       Environment_91: -1417890019
       Environment_236: -754508600
+      Environment_264: 1746095400
       Environment_164: -1867821023
       Environment_109: -1701346740
       Environment_169: -484214345
